@@ -1,7 +1,7 @@
-<!-- # 🌐 Tagnic Cards Frontend (React)
+<!-- # 🌐 NEXA_card Frontend (React)
 
-Explore **Tagnic with a Single Tap!**  
-Tagnic is an **NFC-powered digital business card platform** that enables seamless connectivity and instant networking.
+Explore **Nexa with a Single Tap!**  
+Nexa is an **NFC-powered digital business card platform** that enables seamless connectivity and instant networking.
 
 With just one tap, users can instantly access:
 
@@ -11,13 +11,13 @@ With just one tap, users can instantly access:
 - Professional information  
 - And much more  
 
-Tagnic eliminates the need for outdated paper business cards and brings the future of smart networking to your fingertips.
+Nexa eliminates the need for outdated paper business cards and brings the future of smart networking to your fingertips.
 
 ---
 
 ## ✨ Project Overview
 
-Tagnic Cards is a modern and responsive frontend web application where users can:
+Nexa Cards is a modern and responsive frontend web application where users can:
 
 ✅ Browse different categories of NFC business cards  
 ✅ Explore product features and working process  
