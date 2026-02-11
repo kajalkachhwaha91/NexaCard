@@ -1,4 +1,4 @@
-<!-- # 🌐 Tagnic Cards Frontend (React)
+# 🌐 Tagnic Cards Frontend (React)
 
 Explore **Tagnic with a Single Tap!**  
 Tagnic is an **NFC-powered digital business card platform** that enables seamless connectivity and instant networking.
@@ -91,4 +91,4 @@ This project is built using modern frontend tools:
 > Payment integration (Razorpay/Firebase) will be finalized in future updates.
 
 ---
- -->
+
