@@ -1,5 +1,4 @@
-
-<!-- # 🌐 NEXA_card Frontend (React)
+# 🌐 NEXA_card Frontend (React)
 
 Explore **Nexa with a Single Tap!**  
 Nexa is an **NFC-powered digital business card platform** that enables seamless connectivity and instant networking.
@@ -90,6 +89,4 @@ This project is built using modern frontend tools:
 - Authentication required only when purchasing
 
 > Payment integration (Razorpay/Firebase) will be finalized in future updates.
-
----
 
